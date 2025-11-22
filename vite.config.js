@@ -4,5 +4,5 @@ import vue from "@vitejs/plugin-vue";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: "/madel_cityExplorer/",
+  base: "/city_explorer_capstone/",
 });
